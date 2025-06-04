@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|c:\\users\\noah grenninger\\onedrive - pennsylvania college of technology\\documents\\tps prep\\contactsexample\\contacts_api\\contacts\\contacts\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|solutionrelative:contacts\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|c:\\users\\noah grenninger\\onedrive - pennsylvania college of technology\\documents\\tps prep\\contactsexample\\contacts_api\\contacts\\contacts\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\addcontactrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|c:\\users\\noah grenninger\\onedrive - pennsylvania college of technology\\documents\\tps prep\\contactsexample\\contacts_api\\contacts\\contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|solutionrelative:contacts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|c:\\users\\noah grenninger\\onedrive - pennsylvania college of technology\\documents\\tps prep\\contactsexample\\contacts_api\\contacts\\contacts\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|solutionrelative:contacts\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|c:\\users\\noah grenninger\\onedrive - pennsylvania college of technology\\documents\\tps prep\\contactsexample\\contacts_api\\contacts\\contacts\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267A620-3306-46FE-BC40-DCDEB2359E8D}|Contacts\\Contacts.csproj|solutionrelative:contacts\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Models\\AddContactRequestDTO.cs",
+              "RelativeDocumentMoniker": "Contacts\\Models\\AddContactRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Models\\AddContactRequestDTO.cs",
+              "RelativeToolTip": "Contacts\\Models\\AddContactRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:55:12.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Contacts\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Contacts\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:29:28.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Program.cs",
+              "RelativeDocumentMoniker": "Contacts\\Program.cs",
+              "ToolTip": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Program.cs",
+              "RelativeToolTip": "Contacts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:26:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Data\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "Contacts\\Data\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Data\\ContactDbContext.cs",
+              "RelativeToolTip": "Contacts\\Data\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:18:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "Contacts\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\Noah Grenninger\\OneDrive - Pennsylvania College of Technology\\Documents\\TPS prep\\ContactsExample\\Contacts_API\\Contacts\\Contacts\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "Contacts\\Models\\Domain\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:09:30.986Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

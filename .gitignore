@@ -1,0 +1,29 @@
+# =========================
+# Angular Frontend
+# =========================
+/Angular_UI/node_modules/
+/Angular_UI/dist/
+/Angular_UI/.angular/cache/
+/Angular_UI/environment.ts
+/Angular_UI/.DS_Store
+
+# =========================
+# .NET Backend
+# =========================
+/Contacts_API/bin/
+/Contacts_API/obj/
+/Contacts_API/*.user
+/Contacts_API/*.suo
+/Contacts_API/*.vsp
+/Contacts_API/.vs/
+/Contacts_API/*.dbmdl
+/Contacts_API/*.log
+
+# =========================
+# Global
+# =========================
+.env
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
